@@ -1,3 +1,4 @@
+package algorithm;
 
 /**
  * @author haungyongkang
