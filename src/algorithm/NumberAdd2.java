@@ -1,4 +1,4 @@
-package misc;
+package algorithm;
 
 import java.util.Objects;
 import java.util.Stack;

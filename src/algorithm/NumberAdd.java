@@ -1,4 +1,4 @@
-package misc;
+package algorithm;
 
 import java.math.BigDecimal;
 import java.util.Objects;
